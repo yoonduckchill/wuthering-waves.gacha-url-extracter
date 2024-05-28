@@ -1,0 +1,1 @@
+# wuthering-waves.gacha-url-extracter
